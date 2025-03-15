@@ -1,4 +1,4 @@
- # Use Tomcat as the base image
+
 FROM tomcat:9.0
 
 # Set working directory inside container
